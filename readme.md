@@ -4,3 +4,4 @@ my surname is Rakymzhan
 Usiversity: SDU )
 City: Kyzylorda
 Country: Kazakhstan
+My age: 19
